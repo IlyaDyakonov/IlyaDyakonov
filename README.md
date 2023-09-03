@@ -13,20 +13,20 @@
 
 📚 I'm constantly learning new concepts and technologies to stay up-to-date with the latest trends in the world of development. This is an incredibly exciting journey, and I'm eager to share my knowledge and experience with the community.
 
-📫 How to reach me: [<img src="https://raw.githubusercontent.com/file-icons/icons/e6e6e6ac8cb1d91867167c228c00a667f4d47101/svg/Telegram.svg" alt="@theApuoX" width="30" height="30">](https://t.me/theApuoX)
+📫 How to reach me: [<img src="https://raw.githubusercontent.com/file-icons/icons/e6e6e6ac8cb1d91867167c228c00a667f4d47101/svg/Telegram.svg" title="Telegram" alt="@theApuoX" width="30" height="30">](https://t.me/theApuoX)
 ***
 ### 🛠 Languages and Tools:
 
-<a href="#"><img align="left" alt="Python" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-<a href="#"><img align="left" alt="Django" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a>
-<a href="#"><img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
-<a href="#"><img align="left" alt="SQLAlchemy" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" /></a>
-<a href="#"><img align="left" alt="HTML" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
-<a href="#"><img align="left" alt="CSS" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
-<a href="#"><img align="left" alt="Git" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-<a href="#"><img align="left" alt="GitHub" width="30px" style="padding-right:10px; pointer-events: none;" src="https://devicons.railway.app/i/github-light.svg" /></a>
-<a href="#"><img align="left" alt="VSCode" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
-<a href="#"><img align="left" alt="Pycharm" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /></a>
+<a href="#"><img align="left" title="Python" alt="Python" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+<a href="#"><img align="left" title="Django" alt="Django" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a>
+<a href="#"><img align="left" title="PostgreSQL" alt="PostgreSQL" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+<a href="#"><img align="left" title="SQLAlchemy" alt="SQLAlchemy" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" /></a>
+<a href="#"><img align="left" title="HTML" alt="HTML" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
+<a href="#"><img align="left" title="CSS" alt="CSS" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
+<a href="#"><img align="left" title="Git" alt="Git" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<a href="#"><img align="left" title="GitHub" alt="GitHub" width="30px" style="padding-right:10px; pointer-events: none;" src="https://devicons.railway.app/i/github-light.svg" /></a>
+<a href="#"><img align="left" title="VSCode" alt="VSCode" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
+<a href="#"><img align="left" title="Pycharm" alt="Pycharm" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /></a>
 
 <br />
 <br />
