@@ -11,9 +11,9 @@
 
 💡 My passion for programming ignites every day as I create new projects and tackle complex tasks. Python, for me, is not just a programming language; it's a tool through which I bring my ideas to life and make them a reality.
 
-📚 I'm constantly learning new concepts and technologies to stay up-to-date with the latest trends in the world of development. This is an incredibly exciting journey, and I'm eager to share my knowledge and experience with the community.
+📚 I'm constantly learning new concepts and technologies to stay up-to-date with the latest trends in the world of development. This is an incredibly exciting journey!
 
-📫 How to reach me: [<img src="https://raw.githubusercontent.com/file-icons/icons/e6e6e6ac8cb1d91867167c228c00a667f4d47101/svg/Telegram.svg" title="Telegram" alt="@theApuoX" width="30" height="30">](https://t.me/theApuoX)
+📫 How to reach me: [<img src="https://img.icons8.com/?size=512&id=ymzccwMmNkRx&format=png" title="Telegram" alt="@theApuoX" width="30" height="30">](https://t.me/theApuoX)
 ***
 ### 🛠 Languages and Tools:
 
@@ -35,6 +35,8 @@
 
 ### 💻 My Projects:
 - Python, PostgreSQL, API [dating bot - VKinder 3.0](https://github.com/IlyaDyakonov/VKinder_3.0)
+- Python, API [AmountSmart_bot](https://github.com/IlyaDyakonov/AmountSmart_bot)
+- Python, API [OOP coursework. "Backup"](https://github.com/IlyaDyakonov/Course_Work)
 
 ***
 
