@@ -1,5 +1,5 @@
 <p align="center" style="padding-bottom:0; margin-bottom:1;">
-    <h3 align="center">Hello everyone! 👋
+    <h3 align="center">Hello there! 👋
     <br /> Welcome to my GitHub profile.
     </h3>
 </p>
@@ -41,7 +41,6 @@
 ***
 
 ### ⚙️ GitHub Analytics:
-
 <table style="border:None; border-collapse:collapse; border-spacing:0;">
     <tr>
         <td>
@@ -61,7 +60,8 @@
         <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/IlyaDyakonov"/>
     </a>
     <a href="https://github.com/IlyaDyakonov">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/IlyaDyakonov?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+        <a href="https://www.github.com/IlyaDyakonov" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/IlyaDyakonov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
     </a>
     <a href="https://github.com/serj-goa/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=IlyaDyakonov&style=for-the-badge&color=lightgrey">
