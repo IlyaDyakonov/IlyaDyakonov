@@ -27,7 +27,7 @@
 <a href="#"><img align="left" title="GitHub" alt="GitHub" width="30px" style="padding-right:10px; pointer-events: none;" src="https://devicons.railway.app/i/github-light.svg" /></a>
 <a href="#"><img align="left" title="VSCode" alt="VSCode" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 <a href="#"><img align="left" title="Pycharm" alt="Pycharm" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /></a>
-<a href="#"><img align="left" title="Pycharm" alt="JavaScript" width="30px" style="padding-right:10px; pointer-events: none;" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-plain.svg" /></a>
+<a href="#"><img align="left" title="JavaScript" alt="JavaScript" width="30px" style="padding-right:10px; pointer-events: none;" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-plain.svg" /></a>
 
 <br />
 <br />
