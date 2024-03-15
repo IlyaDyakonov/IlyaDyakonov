@@ -28,6 +28,9 @@
 <a href="#"><img align="left" title="VSCode" alt="VSCode" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 <a href="#"><img align="left" title="Pycharm" alt="Pycharm" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /></a>
 <a href="#"><img align="left" title="JavaScript" alt="JavaScript" width="30px" style="padding-right:10px; pointer-events: none;" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-plain.svg" /></a>
+<a href="#"><img align="left" title="Node.js" alt="Node.js" width="30px" style="padding-right:10px; pointer-events: none;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" /></a>
+<a href="#"><img align="left" title="Jest" alt="Jest" width="30px" style="padding-right:10px; pointer-events: none;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jest/jest-plain.svg" /></a>
+<a href="#"><img align="left" title="React" alt="React" width="30px" style="padding-right:10px; pointer-events: none;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" /></a>
 
 <br />
 <br />
