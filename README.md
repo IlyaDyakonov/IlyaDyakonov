@@ -41,7 +41,7 @@
 - Python, PostgreSQL, API [dating bot - VKinder 3.0](https://github.com/IlyaDyakonov/VKinder_3.0)
 - Python, API [AmountSmart_bot](https://github.com/IlyaDyakonov/AmountSmart_bot)
 - Python, API [OOP coursework. "Backup"](https://github.com/IlyaDyakonov/Course_Work)
-
+- JavaScript [Coursework. Mini-game](https://github.com/IlyaDyakonov/js-advanced-diplom)
 ***
 
 ### ⚙️ GitHub Analytics:
