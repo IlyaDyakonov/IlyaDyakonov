@@ -38,6 +38,7 @@
 ***
 
 ### 💻 My Projects:
+- JavaScript + python = graduation project [diplom_MyCloud](https://github.com/IlyaDyakonov/diplom_MyCloud)
 - Python, PostgreSQL, API [dating bot - VKinder 3.0](https://github.com/IlyaDyakonov/VKinder_3.0)
 - Python, API [AmountSmart_bot](https://github.com/IlyaDyakonov/AmountSmart_bot)
 - Python, API [OOP coursework. "Backup"](https://github.com/IlyaDyakonov/Course_Work)
