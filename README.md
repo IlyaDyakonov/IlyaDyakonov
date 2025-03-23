@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me:
 🐍 My name is Ilya, and I'm passionate about the world of Python, JavaScript and software development. I'm always ready to dive into the world of code and explore new horizons.
 
-💡 My passion for programming ignites every day as I create new projects and tackle complex tasks. Python, for me, is not just a programming language; it's a tool through which I bring my ideas to life and make them a reality.
+💡 My passion for programming ignites every day as I create new projects and tackle complex tasks. Python and JavaScript, for me, is not just a programming language; it's a tool through which I bring my ideas to life and make them a reality.
 
 📚 I'm constantly learning new concepts and technologies to stay up-to-date with the latest trends in the world of development. This is an incredibly exciting journey!
 
