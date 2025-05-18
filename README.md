@@ -54,10 +54,10 @@
         <td>
             <a href="#"><img height="195px" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IlyaDyakonov&theme=vision-friendly-dark&layout=compact" alt="webDev's Github Languages" /></a>
         </td>
+    </tr>
         <td>
             <a href="#"><img height="195px" align="right" src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=IlyaDyakonov&peng=false" alt="GitHubStats" /></a>
         </td>
-    </tr>
 </table>
 
 <div align="center">
