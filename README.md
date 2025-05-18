@@ -56,7 +56,7 @@
         </td>
     </tr>
         <td>
-            <a href="#"><img height="195px" align="right" src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=IlyaDyakonov&peng=false" alt="GitHubStats" /></a>
+            <a href="#"><img height="195px" align="center" src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=IlyaDyakonov&peng=false" alt="GitHubStats" /></a>
         </td>
 </table>
 
