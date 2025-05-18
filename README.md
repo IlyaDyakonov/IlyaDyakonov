@@ -13,7 +13,7 @@
 
 📚 I'm constantly learning new concepts and technologies to stay up-to-date with the latest trends in the world of development. This is an incredibly exciting journey!
 
-📫 How to reach me: [<img src="https://img.icons8.com/?size=512&id=ymzccwMmNkRx&format=png" title="Telegram" alt="@Ilya_dot_d" width="30" height="30">](https://t.me/theApuoX)
+📫 How to reach me: [<img src="https://img.icons8.com/?size=512&id=ymzccwMmNkRx&format=png" title="Telegram" alt="@Ilya_dot_d" width="30" height="30">](https://t.me/Ilya_dot_d)
 ***
 ### 🛠 Languages and Tools:
 
