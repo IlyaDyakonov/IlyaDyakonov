@@ -49,15 +49,18 @@
 ### ⚙️ GitHub Analytics:
 <table style="border:None; border-collapse:collapse; border-spacing:0;">
     <tr>
-        <td>
+        <td align="center">
             <a href="#"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IlyaDyakonov&theme=vision-friendly-dark" alt="webDev's Github stats" /></a>
         </td>
-        <td>
+        <td align="center">
             <a href="#"><img height="195px" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IlyaDyakonov&theme=vision-friendly-dark&layout=compact" alt="webDev's Github Languages" /></a>
         </td>
     </tr>
-        <td>
-            <a href="#"><img height="195px" align="center" src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=IlyaDyakonov&peng=false" alt="GitHubStats" /></a>
+        <td align="center">
+            <a href="#"><img height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=IlyaDyakonov&show_icons=false&theme=highcontrast" alt="GitHubStats" /></a>
+        </td>
+        <td align="center">
+            <a href="#"><img height="195px" align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes" /></a>
         </td>
 </table>
 
