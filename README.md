@@ -55,8 +55,8 @@
             <a href="#"><img height="195px" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IlyaDyakonov&theme=vision-friendly-dark&layout=compact" alt="webDev's Github Languages" /></a>
         </td>
         <td>
-            ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-            ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+            <a href="#"><img src="https://raw.githubusercontent.com/IlyaDyakonov/github-stats/master/generated/overview.svg#gh-dark-mode-only" /> </a>
+            <a href="#"><img src="https://raw.githubusercontent.com/IlyaDyakonov/github-stats/master/generated/overview.svg#gh-light-mode-only" /> </a>
         </td>
     </tr>
 </table>
