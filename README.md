@@ -44,12 +44,6 @@
 <br />
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
-
 ***
 
 ### 💻 My Projects:
@@ -59,6 +53,12 @@
 - Python, API [OOP coursework. "Backup"](https://github.com/IlyaDyakonov/Course_Work)
 - JavaScript [Coursework. Mini-game](https://github.com/IlyaDyakonov/JS_Advanced_Diplom)
 ***
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 
 ### ⚙️ GitHub Analytics:
 <table style="border:None; border-collapse:collapse; border-spacing:0;">
